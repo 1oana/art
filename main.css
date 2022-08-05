@@ -10,7 +10,7 @@
   /*line-height: 100px;*/
   /*text-align: center;*/
   /*margin: 2px;*/
-  /*display: none; Hidden by default */
+  display: none; /*Hidden by default */
 }
 
 /* The "show" class is added to the filtered elements */
