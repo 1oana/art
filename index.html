@@ -3,17 +3,29 @@
 <body>
   <style>
 img {
-  width: "500";
+  width: 25%;
 }
 </style>
-
  
 <link rel="stylesheet" type="text/css" href="main.css"/>
 <script type="text/javascript" src="jsscript.js"></script>
-
+ 
 <h1> I am gonna put a portfolio here </h1>
+ 
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('animals')"> Animals </button>
+ <button class="btn" onclick="filterSelection('digital')"> Digital </button>
+ <button class="btn" onclick="filterSelection('pencil')"> Pencil </button>
+</div>
+ 
 
-<img src="moo.png" alt="highland cow"> 
+
+
+
+<div class="container">
+  <div class="filterDiv animals digital"><img src="moo.png" alt="highland cow">
+</div>
   
 </body>
 </html>
