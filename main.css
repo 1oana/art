@@ -4,13 +4,14 @@
 
 .filterDiv {
   float: left;
-  background-color: #111;
+  background-color: #fff;
   color: #ffffff;
-  width: 500px;
-  line-height: 100px;
+  width: 250px;
+  line-height: 5px;
+  padding: 5px;
   text-align: center;
-  /*margin: 1px;*/
-  display: none; /* Hidden by default */
+  margin: 0px;
+  display: none;
 }
 
 /* The "show" class is added to the filtered elements */
