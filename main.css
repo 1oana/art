@@ -4,12 +4,12 @@
 
 .filterDiv {
   float: left;
-  background-color: #123456;
+  background-color: #111;
   color: #ffffff;
   width: 500px;
   line-height: 100px;
   text-align: center;
-  margin: 1px;
+  /*margin: 1px;*/
   display: none; /* Hidden by default */
 }
 
