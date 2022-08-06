@@ -16,7 +16,7 @@
 
 /* The "show" class is added to the filtered elements */
 .show {
-  display: inline;
+  display: block;
 }
 
 /* Style the buttons */
