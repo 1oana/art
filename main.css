@@ -6,10 +6,10 @@
   float: left;
   background-color: #123456;
   color: #ffffff;
-  width: 100px;
+  width: 500px;
   line-height: 100px;
   text-align: center;
-  margin: 2px;
+  margin: 1px;
   display: none; /* Hidden by default */
 }
 
