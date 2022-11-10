@@ -10,7 +10,7 @@
   line-height: 5px;
   padding: 5px;
   text-align: center;
-  grid-auto-flow: dense;
+  grid-auto-flow: column dense;
   margin: 0px;
   display: none;
 }
